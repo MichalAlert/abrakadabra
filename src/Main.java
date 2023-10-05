@@ -16,6 +16,8 @@ public class Main {
 
     public void console(String name) {
         System.out.println(name + "1");
+        System.out.println("bajojajo");
+        System.out.println("eloelo");
     }
 
 
