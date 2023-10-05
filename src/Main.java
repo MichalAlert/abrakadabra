@@ -14,7 +14,7 @@ public class Main {
         }
     }
 
-    public void console(String name){
+    public void console(String name) {
         System.out.println(name);
     }
 
