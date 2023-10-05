@@ -13,4 +13,10 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+
+    public void console(String name){
+        System.out.println(name);
+    }
+
+
 }
