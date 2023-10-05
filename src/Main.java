@@ -15,7 +15,7 @@ public class Main {
     }
 
     public void console(String name) {
-        System.out.println(name);
+        System.out.println(name + "1");
     }
 
 
